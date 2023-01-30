@@ -7,29 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-<<<<<<< HEAD
-		265A314B29830799009B23E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265A314A29830799009B23E0 /* AppDelegate.swift */; };
-		265A314D29830799009B23E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265A314C29830799009B23E0 /* SceneDelegate.swift */; };
-		265A314F29830799009B23E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265A314E29830799009B23E0 /* ViewController.swift */; };
-		265A315229830799009B23E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 265A315029830799009B23E0 /* Main.storyboard */; };
-		265A315429830799009B23E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 265A315329830799009B23E0 /* Assets.xcassets */; };
-		265A315729830799009B23E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 265A315529830799009B23E0 /* LaunchScreen.storyboard */; };
-/* End PBXBuildFile section */
-
-/* Begin PBXFileReference section */
-		265A314729830799009B23E0 /* 1_StormViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1_StormViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		265A314A29830799009B23E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		265A314C29830799009B23E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		265A314E29830799009B23E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		265A315129830799009B23E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		265A315329830799009B23E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		265A315629830799009B23E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		265A315829830799009B23E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-/* End PBXFileReference section */
-
-/* Begin PBXFrameworksBuildPhase section */
-		265A314429830799009B23E0 /* Frameworks */ = {
-=======
 		265A318E2983141F009B23E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265A318D2983141F009B23E0 /* AppDelegate.swift */; };
 		265A31902983141F009B23E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265A318F2983141F009B23E0 /* SceneDelegate.swift */; };
 		265A31922983141F009B23E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265A31912983141F009B23E0 /* ViewController.swift */; };
@@ -73,7 +50,6 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		265A31872983141F009B23E0 /* Frameworks */ = {
->>>>>>> c7adab6 (Finished Storm viewer)
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -83,20 +59,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-<<<<<<< HEAD
-		265A313E29830799009B23E0 = {
-			isa = PBXGroup;
-			children = (
-				265A314929830799009B23E0 /* 1_StormViewer */,
-				265A314829830799009B23E0 /* Products */,
-			);
-			sourceTree = "<group>";
-		};
-		265A314829830799009B23E0 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				265A314729830799009B23E0 /* 1_StormViewer.app */,
-=======
 		265A31812983141F009B23E0 = {
 			isa = PBXGroup;
 			children = (
@@ -109,23 +71,10 @@
 			isa = PBXGroup;
 			children = (
 				265A318A2983141F009B23E0 /* 1_StormViewer.app */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
-		265A314929830799009B23E0 /* 1_StormViewer */ = {
-			isa = PBXGroup;
-			children = (
-				265A314A29830799009B23E0 /* AppDelegate.swift */,
-				265A314C29830799009B23E0 /* SceneDelegate.swift */,
-				265A314E29830799009B23E0 /* ViewController.swift */,
-				265A315029830799009B23E0 /* Main.storyboard */,
-				265A315329830799009B23E0 /* Assets.xcassets */,
-				265A315529830799009B23E0 /* LaunchScreen.storyboard */,
-				265A315829830799009B23E0 /* Info.plist */,
-=======
 		265A318C2983141F009B23E0 /* 1_StormViewer */ = {
 			isa = PBXGroup;
 			children = (
@@ -147,7 +96,6 @@
 				265A31A829831646009B23E0 /* nssl0051.jpg */,
 				265A31A429831646009B23E0 /* nssl0091.jpg */,
 				265A319B29831420009B23E0 /* Info.plist */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			path = 1_StormViewer;
 			sourceTree = "<group>";
@@ -155,15 +103,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-<<<<<<< HEAD
-		265A314629830799009B23E0 /* 1_StormViewer */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 265A315B29830799009B23E0 /* Build configuration list for PBXNativeTarget "1_StormViewer" */;
-			buildPhases = (
-				265A314329830799009B23E0 /* Sources */,
-				265A314429830799009B23E0 /* Frameworks */,
-				265A314529830799009B23E0 /* Resources */,
-=======
 		265A31892983141F009B23E0 /* 1_StormViewer */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 265A319E29831420009B23E0 /* Build configuration list for PBXNativeTarget "1_StormViewer" */;
@@ -171,7 +110,6 @@
 				265A31862983141F009B23E0 /* Sources */,
 				265A31872983141F009B23E0 /* Frameworks */,
 				265A31882983141F009B23E0 /* Resources */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			buildRules = (
 			);
@@ -179,41 +117,25 @@
 			);
 			name = 1_StormViewer;
 			productName = 1_StormViewer;
-<<<<<<< HEAD
-			productReference = 265A314729830799009B23E0 /* 1_StormViewer.app */;
-=======
 			productReference = 265A318A2983141F009B23E0 /* 1_StormViewer.app */;
->>>>>>> c7adab6 (Finished Storm viewer)
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-<<<<<<< HEAD
-		265A313F29830799009B23E0 /* Project object */ = {
-=======
 		265A31822983141F009B23E0 /* Project object */ = {
->>>>>>> c7adab6 (Finished Storm viewer)
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-<<<<<<< HEAD
-					265A314629830799009B23E0 = {
-=======
 					265A31892983141F009B23E0 = {
->>>>>>> c7adab6 (Finished Storm viewer)
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-<<<<<<< HEAD
-			buildConfigurationList = 265A314229830799009B23E0 /* Build configuration list for PBXProject "1_StormViewer" */;
-=======
 			buildConfigurationList = 265A31852983141F009B23E0 /* Build configuration list for PBXProject "1_StormViewer" */;
->>>>>>> c7adab6 (Finished Storm viewer)
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -221,35 +143,17 @@
 				en,
 				Base,
 			);
-<<<<<<< HEAD
-			mainGroup = 265A313E29830799009B23E0;
-			productRefGroup = 265A314829830799009B23E0 /* Products */;
-			projectDirPath = "";
-			projectRoot = "";
-			targets = (
-				265A314629830799009B23E0 /* 1_StormViewer */,
-=======
 			mainGroup = 265A31812983141F009B23E0;
 			productRefGroup = 265A318B2983141F009B23E0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				265A31892983141F009B23E0 /* 1_StormViewer */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-<<<<<<< HEAD
-		265A314529830799009B23E0 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				265A315729830799009B23E0 /* LaunchScreen.storyboard in Resources */,
-				265A315429830799009B23E0 /* Assets.xcassets in Resources */,
-				265A315229830799009B23E0 /* Main.storyboard in Resources */,
-=======
 		265A31882983141F009B23E0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -267,22 +171,12 @@
 				265A31B329831646009B23E0 /* nssl0042.jpg in Resources */,
 				265A31B429831646009B23E0 /* nssl0043.jpg in Resources */,
 				265A31952983141F009B23E0 /* Main.storyboard in Resources */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-<<<<<<< HEAD
-		265A314329830799009B23E0 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				265A314F29830799009B23E0 /* ViewController.swift in Sources */,
-				265A314B29830799009B23E0 /* AppDelegate.swift in Sources */,
-				265A314D29830799009B23E0 /* SceneDelegate.swift in Sources */,
-=======
 		265A31862983141F009B23E0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -291,39 +185,24 @@
 				265A318E2983141F009B23E0 /* AppDelegate.swift in Sources */,
 				265A31902983141F009B23E0 /* SceneDelegate.swift in Sources */,
 				265A31B8298472C4009B23E0 /* DetailViewController.swift in Sources */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-<<<<<<< HEAD
-		265A315029830799009B23E0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				265A315129830799009B23E0 /* Base */,
-=======
 		265A31932983141F009B23E0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				265A31942983141F009B23E0 /* Base */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
-		265A315529830799009B23E0 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				265A315629830799009B23E0 /* Base */,
-=======
 		265A319829831420009B23E0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				265A319929831420009B23E0 /* Base */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -331,11 +210,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-<<<<<<< HEAD
-		265A315929830799009B23E0 /* Debug */ = {
-=======
 		265A319C29831420009B23E0 /* Debug */ = {
->>>>>>> c7adab6 (Finished Storm viewer)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -395,11 +270,7 @@
 			};
 			name = Debug;
 		};
-<<<<<<< HEAD
-		265A315A29830799009B23E0 /* Release */ = {
-=======
 		265A319D29831420009B23E0 /* Release */ = {
->>>>>>> c7adab6 (Finished Storm viewer)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -453,11 +324,7 @@
 			};
 			name = Release;
 		};
-<<<<<<< HEAD
-		265A315C29830799009B23E0 /* Debug */ = {
-=======
 		265A319F29831420009B23E0 /* Debug */ = {
->>>>>>> c7adab6 (Finished Storm viewer)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -485,11 +352,7 @@
 			};
 			name = Debug;
 		};
-<<<<<<< HEAD
-		265A315D29830799009B23E0 /* Release */ = {
-=======
 		265A31A029831420009B23E0 /* Release */ = {
->>>>>>> c7adab6 (Finished Storm viewer)
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -520,45 +383,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-<<<<<<< HEAD
-		265A314229830799009B23E0 /* Build configuration list for PBXProject "1_StormViewer" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				265A315929830799009B23E0 /* Debug */,
-				265A315A29830799009B23E0 /* Release */,
-=======
 		265A31852983141F009B23E0 /* Build configuration list for PBXProject "1_StormViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				265A319C29831420009B23E0 /* Debug */,
 				265A319D29831420009B23E0 /* Release */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-<<<<<<< HEAD
-		265A315B29830799009B23E0 /* Build configuration list for PBXNativeTarget "1_StormViewer" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				265A315C29830799009B23E0 /* Debug */,
-				265A315D29830799009B23E0 /* Release */,
-=======
 		265A319E29831420009B23E0 /* Build configuration list for PBXNativeTarget "1_StormViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				265A319F29831420009B23E0 /* Debug */,
 				265A31A029831420009B23E0 /* Release */,
->>>>>>> c7adab6 (Finished Storm viewer)
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-<<<<<<< HEAD
-	rootObject = 265A313F29830799009B23E0 /* Project object */;
-=======
 	rootObject = 265A31822983141F009B23E0 /* Project object */;
->>>>>>> c7adab6 (Finished Storm viewer)
 }
